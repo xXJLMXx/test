@@ -11,7 +11,7 @@ header {
   }
 }
 
-html, body {width: auto!important; overflow-x: hidden!important} 
+html {width: auto!important; overflow-x: hidden!important} 
 
 /* Grid styles -------------------------------------------------*/
 .cards {
